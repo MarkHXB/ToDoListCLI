@@ -1,0 +1,7 @@
+C:\Users\bakon\source\repos\ToDoListCMD\obj\Debug\ToDoListCMD.csproj.AssemblyReference.cache
+C:\Users\bakon\source\repos\ToDoListCMD\obj\Debug\ToDoListCMD.csproj.CoreCompileInputs.cache
+C:\Users\bakon\source\repos\ToDoListCMD\bin\Debug\ToDoListCMD.exe.config
+C:\Users\bakon\source\repos\ToDoListCMD\bin\Debug\ToDoListCMD.exe
+C:\Users\bakon\source\repos\ToDoListCMD\bin\Debug\ToDoListCMD.pdb
+C:\Users\bakon\source\repos\ToDoListCMD\obj\Debug\ToDoListCMD.exe
+C:\Users\bakon\source\repos\ToDoListCMD\obj\Debug\ToDoListCMD.pdb
